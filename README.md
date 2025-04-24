@@ -4,6 +4,6 @@
 💡 Key Insights:
 July saw the highest sales overall
 Weekends were the busiest for orders
-Check out the full report here 👉 https://app.powerbi.com/view?r=eyJrIjoiNDUzOTQxZDQtMGFkNi00MGQ2LTgxYWUtYTE3MzIwOGI5ZGUyIiwidCI6IjJlM2M2N2ZhLWNkOWItNDk5Yi1iYThjLTJlNzRmMTM4MDk0YiJ9
+Check out the full report here 👉 <a>https://app.powerbi.com/viewr=eyJrIjoiNDUzOTQxZDQtMGFkNi00MGQ2LTgxYWUtYTE3MzIwOGI5ZGUyIiwidCI6IjJlM2M2N2ZhLWNkOWItNDk5Yi1iYThjLTJlNzRmMTM4MDk0YiJ9</a>
 I'd love to hear your thoughts and feedback!
 #DataAnalytics #PowerBI #DataVisualization #PizzaSales #Dashboard #BusinessIntelligence
